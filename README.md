@@ -21,8 +21,11 @@ Check out my personal website and blog: [alimnaqvi.com](https://www.alimnaqvi.co
 [![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)](#)  
   
 #### Development tools:
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](#)
+[![GoogleTest](https://img.shields.io/badge/GoogleTest-4285F4?style=flat&logo=google&logoColor=white)](#)
+[![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)](#)
+[![Make](https://img.shields.io/badge/Make-grey?style=flat)](#)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](#)
 [![Bash/Zsh](https://img.shields.io/badge/Bash%2FZsh-4EAA25?style=flat&logo=gnometerminal&logoColor=white)](#)  
   
