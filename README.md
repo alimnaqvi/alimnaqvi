@@ -2,7 +2,7 @@
 
 I'm a software developer with a background in business analysis and project management. After 4+ years in the business world, I pivoted to tech and honed my software engineering skills at the [42 Network](https://www.42network.org/) along with avid self-learning.
 
-Currently, the programming languages I am most familiar with are **C** and **C++**, with a deep dive into systems programming, memory management, and concurrency. However, I am language-agnostic and eager to pick up new languages, frameworks, and tools as the need arises. Other than C and C++, I have done projects using Python as well as web technologies such as JavaScript, TypeScript, HTML, CSS, Tailwind, and Astro.
+Currently, the programming languages I am most familiar with are **C** and **C++**, with a deep dive into systems programming, resource management, and concurrency. However, I am language-agnostic and eager to pick up new languages, frameworks, and tools as the need arises. Other than C and C++, I have done projects using Python as well as web technologies such as JavaScript, TypeScript, HTML, CSS, Tailwind, and Astro.
 
 Check out my personal website and blog: [alimnaqvi.com](https://www.alimnaqvi.com)
 
