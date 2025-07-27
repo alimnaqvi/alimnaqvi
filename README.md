@@ -39,7 +39,7 @@ Check out my personal website and blog: [alimnaqvi.com](https://www.alimnaqvi.co
 [![LLDB](https://img.shields.io/badge/LLDB-grey?style=flat)](#)
 [![Valgrind](https://img.shields.io/badge/Valgrind-grey?style=flat)](#)
 
-### My GitHub Stats (based on public repos)
+### My GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimnaqvi&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 
 ### Featured Projects
