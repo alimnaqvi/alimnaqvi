@@ -40,8 +40,8 @@ Check out my personal website and blog: [alimnaqvi.com](https://www.alimnaqvi.co
 [![Valgrind](https://img.shields.io/badge/Valgrind-grey?style=flat)](#)
 
 ### My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimnaqvi&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-<img src="https://pageviewscounter-production.up.railway.app/view" alt="Page views counter" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alimnaqvi&layout=compact&theme=transparent&hide_border=true)
+![Page views counter](https://pageviewscounter-production.up.railway.app/view)
 
 ### Featured Projects
 
