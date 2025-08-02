@@ -41,7 +41,7 @@ Check out my personal website and blog: [alimnaqvi.com](https://www.alimnaqvi.co
 
 ### My GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimnaqvi&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-<img src="https://page-views-counter.onrender.com/view" alt="Page views counter" />
+<img src="https://pageviewscounter-production.up.railway.app/view" alt="Page views counter" />
 
 ### Featured Projects
 
