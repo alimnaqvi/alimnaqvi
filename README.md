@@ -8,8 +8,8 @@ Check out my personal website and blog: [alimnaqvi.com](https://www.alimnaqvi.co
 
 ### Languages and Tools
 #### My primary languages:
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](#)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](#)  
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
   
 #### My secondary languages:
@@ -41,7 +41,7 @@ Check out my personal website and blog: [alimnaqvi.com](https://www.alimnaqvi.co
 
 ### My GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimnaqvi&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimnaqvi&layout=donut&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5&hide=makefile" alt="Top Languages" />
   <img src="https://page-views-counter-534232554413.europe-west1.run.app/view?src=github.com&src_uri=/alimnaqvi" style="display: none;" />
 </p>
 
