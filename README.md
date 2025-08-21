@@ -10,9 +10,9 @@ Check out my personal website and blog: [alimnaqvi.com](https://www.alimnaqvi.co
 #### My primary languages:
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](#)  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
   
 #### My secondary languages:
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](#)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](#)
@@ -48,6 +48,7 @@ Check out my personal website and blog: [alimnaqvi.com](https://www.alimnaqvi.co
 ### Featured Projects
 
 #### Projects I have written blog posts about:
+* [Writing an Nginx-like web server from scratch in C++](https://www.alimnaqvi.com/blog/webserv)
 * [How I built my website starting with no web dev experience](https://www.alimnaqvi.com/blog/this-website)
 * [Writing a bash-like shell in C](https://www.alimnaqvi.com/blog/minishell)
 
