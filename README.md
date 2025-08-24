@@ -1,8 +1,8 @@
 ### Hi, I'm Ali
 
-I'm a software developer with a background in business analysis and project management. After 4+ years in the business world, I pivoted to tech and honed my software engineering skills at the [42 Network](https://www.42network.org/) along with avid self-learning.
+I'm a software developer passionate about solving complex problems and creating real value. After 4+ years in the business world, I have now fully immersed myself in tech and honed my software engineering skills at the [42 Network](https://www.42network.org/) along with avid self-learning.
 
-Currently, the programming languages I am most familiar with are **C** and **C++**, with a deep dive into systems programming, resource management, and concurrency. However, I am language-agnostic and eager to pick up new languages, frameworks, and tools as the need arises. Other than C and C++, I have done projects using Python as well as web technologies such as JavaScript, TypeScript, HTML, CSS, Tailwind, and Astro.
+Currently, the programming languages I am most familiar with are C++, C, and Python. However, I am language-agnostic and my focus is always on how best to solve the problem at hand and deeply understanding the relevant technologies.
 
 Check out my personal website and blog: [alimnaqvi.com](https://www.alimnaqvi.com)
 
@@ -12,7 +12,7 @@ Check out my personal website and blog: [alimnaqvi.com](https://www.alimnaqvi.co
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
   
-#### My secondary languages:
+#### I have also done projects using:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](#)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](#)
