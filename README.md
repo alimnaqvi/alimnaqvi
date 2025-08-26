@@ -26,6 +26,7 @@ Check out my personal website and blog: [alimnaqvi.com](https://www.alimnaqvi.co
 [![GoogleTest](https://img.shields.io/badge/GoogleTest-4285F4?style=flat&logo=google&logoColor=white)](#)
 [![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)](#)
 [![Make](https://img.shields.io/badge/Make-grey?style=flat)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql&logoColor=white)](#)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](#)
 [![Zsh](https://img.shields.io/badge/Bash%2FZsh-4EAA25?style=flat&logo=gnometerminal&logoColor=white)](#)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](#)
