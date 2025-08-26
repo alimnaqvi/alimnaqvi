@@ -11,23 +11,25 @@ Check out my personal website and blog: [alimnaqvi.com](https://www.alimnaqvi.co
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](#)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
-  
-#### I have also done projects using:
+[![Bash](https://img.shields.io/badge/Bash-232C34?style=flat&logo=gnubash&logoColor=white)](#)
+
+#### My knowledge is growing in the following languages:
+[![Rust](https://img.shields.io/badge/Rust-D34516?style=flat&logo=rust&logoColor=black)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](#)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](#)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](#)
-[![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)](#)  
   
-#### Development tools:
+#### Tools and frameworks:
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](#)
 [![GoogleTest](https://img.shields.io/badge/GoogleTest-4285F4?style=flat&logo=google&logoColor=white)](#)
 [![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)](#)
 [![Make](https://img.shields.io/badge/Make-grey?style=flat)](#)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](#)
-[![Bash/Zsh](https://img.shields.io/badge/Bash%2FZsh-4EAA25?style=flat&logo=gnometerminal&logoColor=white)](#)  
+[![Zsh](https://img.shields.io/badge/Bash%2FZsh-4EAA25?style=flat&logo=gnometerminal&logoColor=white)](#)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](#)
+[![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)](#)  
   
 #### Operating systems:
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](#)
