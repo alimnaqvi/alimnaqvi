@@ -2,7 +2,7 @@
 
 I'm a software developer passionate about solving complex problems and creating real value. After 4+ years in the business world, I have now fully immersed myself in tech and honed my software engineering skills at the [42 Network](https://www.42network.org/) along with avid self-learning.
 
-Currently, the programming languages I am most familiar with are C++, C, and Python. However, I am language-agnostic and my focus is always on how best to solve the problem at hand and deeply understanding the relevant technologies.
+I have done projects in various programming languages, including Python, C++, C, and JavaScript/TypeScript. I am language-agnostic and my focus is always on how best to solve the problem at hand and deeply understanding the relevant technologies.
 
 Check out my personal website and blog: [alimnaqvi.com](https://www.alimnaqvi.com)
 
