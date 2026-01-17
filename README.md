@@ -1,6 +1,11 @@
 ### Hi, I'm Ali
 
-I write code with a product mindset. With 4+ years of experience in business operations, I prioritize maintainability, scalability, and real-world utility in everything I build. I am language-agnostic, though I am currently most productive in Python, C++, C, and JavaScript/TypeScript.
+I am a Software Engineer with a background in Business Operations. My unique path has taught me that great code isn't just about syntax; it's about reliability, maintainability, and solving the right user problems.
+
+**My Focus:**
+*   **Core Engineering:** Strong foundation in C and C++ (memory management, algorithms).
+*   **Scripting & Automation:** Proficient in Python and Bash for removing operational toil.
+*   **Modern Web:** Experience with JavaScript/TypeScript and API development.
 
 Check out my personal website and blog: [alimnaqvi.com](https://www.alimnaqvi.com)
 
