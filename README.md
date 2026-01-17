@@ -1,8 +1,6 @@
 ### Hi, I'm Ali
 
-I'm a software developer passionate about solving complex problems and creating real value. After 4+ years in the business world, I have now fully immersed myself in tech and honed my software engineering skills at the [42 Network](https://www.42network.org/) along with avid self-learning.
-
-I have done projects in various programming languages, including Python, C++, C, and JavaScript/TypeScript. I am language-agnostic and my focus is always on how best to solve the problem at hand and deeply understanding the relevant technologies.
+I write code with a product mindset. With 4+ years of experience in business operations, I prioritize maintainability, scalability, and real-world utility in everything I build. I am language-agnostic, though I am currently most productive in Python, C++, C, and JavaScript/TypeScript.
 
 Check out my personal website and blog: [alimnaqvi.com](https://www.alimnaqvi.com)
 
@@ -20,12 +18,13 @@ Check out my personal website and blog: [alimnaqvi.com](https://www.alimnaqvi.co
 #### Tools and frameworks:
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](#)
-[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=white)](#)
-[![Expo](https://img.shields.io/badge/Expo-1C2024?style=flat&logo=expo&logoColor=white)](#)
+[![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=flat&logo=googlecloud&logoColor=white)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql&logoColor=white)](#)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=flat&logo=fastapi&logoColor=white)](#)
 [![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white)](#)
 [![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)](#)
+[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=white)](#)
+[![Expo](https://img.shields.io/badge/Expo-1C2024?style=flat&logo=expo&logoColor=white)](#)
 [![GoogleTest](https://img.shields.io/badge/GoogleTest-4285F4?style=flat&logo=google&logoColor=white)](#)
 [![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)](#)
 [![Make](https://img.shields.io/badge/Make-grey?style=flat)](#)
