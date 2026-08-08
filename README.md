@@ -49,7 +49,7 @@ Check out my personal website and blog: [alimnaqvi.com](https://www.alimnaqvi.co
 
 ### My GitHub Stats
 <p>
-  <img src="https://github-readme-stats-kappa-nine-39.vercel.app/api/top-langs/?username=alimnaqvi&layout=donut&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5&hide=makefile,html,jupyter%20notebook&exclude_repo=piscine_sync,rush01,eval_cub3d,deprecated_sync_42_curriculum,NetPractice,my_pure,big-AGI2-vercel" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=alimnaqvi&layout=donut&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5&hide=makefile,html,jupyter%20notebook&exclude_repo=piscine_sync,rush01,eval_cub3d,deprecated_sync_42_curriculum,NetPractice,my_pure,big-AGI2-vercel" alt="Top Languages" />
   <img src="https://page-views-counter-534232554413.europe-west1.run.app/view?src=github.com&src_uri=/alimnaqvi" style="display: none;" />
 </p>
 
